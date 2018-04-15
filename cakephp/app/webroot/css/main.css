@@ -1,0 +1,17 @@
+.header{
+  background: #f0f0f0;
+  border-bottom: 1px solid #444;
+  margin-bottom: 30px;
+  text-align: center;
+}
+.footer{
+  background: #333;
+  color: #fff;
+  padding: 20px 0px;
+  margin-top: 30px;
+  text-align: center;
+}
+.active{
+  font-weight: bold;
+  color:#f00 !important;
+}
